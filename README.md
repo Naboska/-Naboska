@@ -41,12 +41,12 @@
             />
         </td>
         <td>
-          <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla).</a>
+          <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/Naboska">Module-federation (in progress).</a>
+          <a href="https://github.com/Naboska">Module-federation (in progress)</a>
         </td>
       </tr>
     </tbody>
