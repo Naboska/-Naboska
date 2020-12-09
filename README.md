@@ -1,8 +1,11 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
+    <colgroup>
+      <col span="2" width="50%">
+    </colgroup>
     <thead>
       <tr>
-        <th>
+        <th span="2">
           <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
         </th>
         <th>
@@ -20,6 +23,8 @@
               src="https://github.com/Naboska/storasy/raw/main/media/logo.png"
             />
           </a>
+        </td>
+        <td>
           <a href="https://github.com/Naboska/react-storasy">
             <img
               class="img"
