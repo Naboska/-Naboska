@@ -33,14 +33,17 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
       <tr>
-        <td>
+        <td rowspan="2">
             <img
               alt="ok"
               src="https://github.com/Naboska/Naboska/blob/main/media/microfrontend.gif?raw=true"
             />
         </td>
         <td>
-          <a href="https://github.com/Naboska/microfrontend-example">Microfrend's - this is dope.</a>
+          <a href="https://github.com/Naboska/microfrontend-example">Microfrend - single-spa.</a>
+        </td>
+        <td>
+          <a href="https://github.com/Naboska">Microfrend - module-federation (in progress).</a>
         </td>
       </tr>
     </tbody>
