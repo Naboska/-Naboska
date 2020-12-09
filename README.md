@@ -19,6 +19,12 @@
               src="https://github.com/Naboska/storasy/raw/main/media/logo.png"
             />
           </a>
+          <a href="https://github.com/Naboska/react-storasy">
+            <img
+              alt="library for working with asynchronous data"
+              src="https://github.com/Naboska/react-storasy/raw/main/media/logo.png"
+            />
+          </a>
         </td>
         <td>
           <a href="https://github.com/Naboska/microfrontend-example">
