@@ -1,7 +1,7 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <colgroup>
-      <col span="2" width="50%">
+      <col span="2" width="25%">
     </colgroup>
     <thead>
       <tr>
