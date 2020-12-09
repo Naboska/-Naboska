@@ -31,13 +31,6 @@
     </tbody>
   </table>
   <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th>
-          <strong><a href="https://github.com/Naboska/microfrontend-example">Microfrontend's - this is dope</a></strong>
-        </th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <td>
