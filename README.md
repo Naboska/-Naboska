@@ -1,3 +1,9 @@
+<style>
+  .img {
+    max-width: 50%;
+  }
+</style>
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
@@ -15,14 +21,14 @@
         <td>
           <a href="https://github.com/Naboska/storasy">
             <img
-              style="width: 50%"
+              class="img"
               alt="library for working with asynchronous data"
               src="https://github.com/Naboska/storasy/raw/main/media/logo.png"
             />
           </a>
           <a href="https://github.com/Naboska/react-storasy">
             <img
-              style="width: 50%"
+              class="img"
               alt="library for working with asynchronous data"
               src="https://github.com/Naboska/react-storasy/raw/main/media/logo.png"
             />
