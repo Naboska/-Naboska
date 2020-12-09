@@ -30,7 +30,6 @@
       </tr>
     </tbody>
   </table>
-<div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
@@ -42,12 +41,13 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/Naboska/microfrontend-example">
             <img
-              alt="Microfrend's - this is dope."
+              alt="ok"
               src="https://github.com/Naboska/Naboska/blob/main/media/microfrontend.gif?raw=true"
             />
-          </a>
+        </td>
+        <td>
+          <a href="https://github.com/Naboska/microfrontend-example">Microfrend's - this is dope.</a>
         </td>
       </tr>
     </tbody>
