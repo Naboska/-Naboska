@@ -5,7 +5,7 @@
     </colgroup>
     <thead>
       <tr>
-        <th span="2">
+        <th colspan="2">
           <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
         </th>
         <th>
