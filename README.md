@@ -42,7 +42,9 @@
         <td>
           <a href="https://github.com/Naboska/microfrontend-example">Microfrend - single-spa.</a>
         </td>
-        <td>
+      </tr>
+      <tr>
+                <td>
           <a href="https://github.com/Naboska">Microfrend - module-federation (in progress).</a>
         </td>
       </tr>
