@@ -28,6 +28,11 @@
           </a>
         </td>
       </tr>
+            <tr>
+        <th colspan="2">
+          <strong>Microfrontend example</strong>
+        </th>
+      </tr>
       <tr>
         <td rowspan="2">
             <img
