@@ -1,9 +1,3 @@
-<style>
-  .img {
-    max-width: 50%;
-  }
-</style>
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
@@ -19,7 +13,7 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/Naboska/storasy">
+          <a href="https://github.com/Naboska/storasy" style="width: 50%;">
             <img
               class="img"
               alt="library for working with asynchronous data"
