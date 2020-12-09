@@ -15,12 +15,14 @@
         <td>
           <a href="https://github.com/Naboska/storasy">
             <img
+              style="max-width: 50%"
               alt="library for working with asynchronous data"
               src="https://github.com/Naboska/storasy/raw/main/media/logo.png"
             />
           </a>
           <a href="https://github.com/Naboska/react-storasy">
             <img
+              style="max-width: 50%"
               alt="library for working with asynchronous data"
               src="https://github.com/Naboska/react-storasy/raw/main/media/logo.png"
             />
