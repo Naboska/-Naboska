@@ -6,7 +6,7 @@
           <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
         </th>
         <th>
-          <strong><a href="https://github.com/Naboska/microfrontend-example">Microfrend's - this is dope</a></strong>
+          <strong><a href="https://github.com/Naboska/microfrontend-example">Microfrontend's - this is dope</a></strong>
         </th>
       </tr>
     </thead>
