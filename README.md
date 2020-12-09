@@ -1,15 +1,9 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
-    <colgroup>
-      <col span="2" width="25%">
-    </colgroup>
     <thead>
       <tr>
         <th colspan="2">
           <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
-        </th>
-        <th>
-          <strong><a href="https://github.com/Naboska/microfrontend-example">Microfrontend's - this is dope</a></strong>
         </th>
       </tr>
     </thead>
@@ -33,6 +27,20 @@
             />
           </a>
         </td>
+      </tr>
+    </tbody>
+  </table>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong><a href="https://github.com/Naboska/microfrontend-example">Microfrontend's - this is dope</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
         <td>
           <a href="https://github.com/Naboska/microfrontend-example">
             <img
