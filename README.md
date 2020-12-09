@@ -40,12 +40,12 @@
             />
         </td>
         <td>
-          <a href="https://github.com/Naboska/microfrontend-example">Microfrend - single-spa.</a>
+          <a href="https://github.com/Naboska/microfrontend-example">Microfrontend - single-spa.</a>
         </td>
       </tr>
       <tr>
                 <td>
-          <a href="https://github.com/Naboska">Microfrend - module-federation (in progress).</a>
+          <a href="https://github.com/Naboska">Microfrontend - module-federation (in progress).</a>
         </td>
       </tr>
     </tbody>
