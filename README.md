@@ -46,7 +46,6 @@
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/Naboska">Module-federation (in progress)</a>
         </td>
       </tr>
     </tbody>
