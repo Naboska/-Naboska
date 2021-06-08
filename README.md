@@ -33,8 +33,8 @@
           <strong>Microfrontend example</strong>
         </th>
       </tr>
-      <tr colspan="2">
-        <td>
+      <tr>
+        <td colspan="2">
           <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
         </td>
       </tr>
