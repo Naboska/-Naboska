@@ -38,6 +38,11 @@
           <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
         </td>
       </tr>
+      <tr>
+        <td colspan="2">
+          <a href="https://github.com/Naboska/ssr-microfrontend-example">Server-side single-spa</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
