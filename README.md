@@ -35,12 +35,12 @@
       </tr>
       <tr>
         <td colspan="2">
-          <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
+          <a href="https://github.com/Naboska/microfrontend-example">SPA - Single-spa (react, svelte, vue, vanilla)</a>
         </td>
       </tr>
       <tr>
         <td colspan="2">
-          <a href="https://github.com/Naboska/ssr-microfrontend-example">Server-side single-spa</a>
+          <a href="https://github.com/Naboska/ssr-microfrontend-example">SSR - single-spa</a>
         </td>
       </tr>
     </tbody>
