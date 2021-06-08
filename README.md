@@ -30,16 +30,6 @@
       </tr>
       <tr>
         <th colspan="2">
-          <strong>Flutter example</strong>
-        </th>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <a href="https://github.com/Naboska/flutter.geeklog.in">flutter for wordpress site</a>
-        </td>
-      </tr>
-      <tr>
-        <th colspan="2">
           <strong>Microfrontend example</strong>
         </th>
       </tr>
