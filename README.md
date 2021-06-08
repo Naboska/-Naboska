@@ -28,12 +28,12 @@
           </a>
         </td>
       </tr>
-            <tr>
-        <th>
+      <tr>
+        <th colspan="2">
           <strong>Microfrontend example</strong>
         </th>
       </tr>
-      <tr>
+      <tr colspan="2">
         <td>
           <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
         </td>
