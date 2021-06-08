@@ -34,18 +34,8 @@
         </th>
       </tr>
       <tr>
-        <td rowspan="2">
-            <img
-              alt="ok"
-              src="https://github.com/Naboska/Naboska/blob/main/media/microfrontend.gif?raw=true"
-            />
-        </td>
         <td>
           <a href="https://github.com/Naboska/microfrontend-example">Single-spa (react, svelte, vue, vanilla)</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
         </td>
       </tr>
     </tbody>
