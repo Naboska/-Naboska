@@ -43,6 +43,21 @@
           <a href="https://github.com/Naboska/ssr-microfrontend-example">SSR - single-spa</a>
         </td>
       </tr>
+      <tr>
+        <th colspan="2">
+          <strong>Microfrontend helpers</strong>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="https://github.com/Naboska/npm-cdn-example">CDN - for a closed npm registry</a> <span>(for example: <a href="https://jfrog.com/artifactory/" _target="blank">Artifactory</a>)</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="https://github.com/Naboska/css-vars-adapter">CSS vars adapter - Allows you to set a theme for CSS3 variables from json.</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
