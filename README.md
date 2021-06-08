@@ -29,7 +29,7 @@
         </td>
       </tr>
             <tr>
-        <th colspan="2">
+        <th>
           <strong>Microfrontend example</strong>
         </th>
       </tr>
