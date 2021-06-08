@@ -30,6 +30,16 @@
       </tr>
       <tr>
         <th colspan="2">
+          <strong>Flutter example</strong>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="https://github.com/Naboska/flutter.geeklog.in">flutter for wordpress site</a>
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2">
           <strong>Microfrontend example</strong>
         </th>
       </tr>
@@ -50,7 +60,7 @@
       </tr>
       <tr>
         <td colspan="2">
-          <a href="https://github.com/Naboska/npm-cdn-example">CDN - for a closed npm registry</a> <span>(for example: <a href="https://jfrog.com/artifactory/" _target="blank">Artifactory</a>)</span>
+          <a href="https://github.com/Naboska/npm-cdn-example">CDN - for a closed npm registry</a> <span>(example: <a href="https://jfrog.com/artifactory/" _target="blank">Artifactory</a>)</span>
         </td>
       </tr>
       <tr>
