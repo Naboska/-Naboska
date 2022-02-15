@@ -10,6 +10,17 @@
     <tbody>
       <tr>
         <td>
+           <a href="https://github.com/Naboska/storasy" style="width: 50%;">
+            <img
+              class="img"
+              alt="library for working with asynchronous data"
+              src="https://github.com/Naboska/Elui/raw/main/public/images/github.svg"
+            />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <a href="https://github.com/Naboska/storasy" style="width: 50%;">
             <img
               class="img"
