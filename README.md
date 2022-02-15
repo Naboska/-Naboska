@@ -1,16 +1,5 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-           <a href="https://github.com/Naboska/storasy" style="width: 50%;">
-            <img
-              class="img"
-              alt="library for working with asynchronous data"
-              src="https://github.com/Naboska/Elui/raw/main/public/images/github.svg"
-            />
-          </a>
-        </td>
-      </tr>
     <thead>
       <tr>
         <th colspan="2">
@@ -35,6 +24,17 @@
               class="img"
               alt="library for working with asynchronous data"
               src="https://github.com/Naboska/react-storasy/raw/main/media/logo.png"
+            />
+          </a>
+        </td>
+      </tr>
+      <tr colspan="2">
+        <td>
+           <a href="https://github.com/Naboska/Elui" style="width: 50%;">
+            <img
+              class="img"
+              alt="ui library for react"
+              src="https://github.com/Naboska/Elui/raw/main/public/images/github.svg"
             />
           </a>
         </td>
