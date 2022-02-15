@@ -28,8 +28,13 @@
           </a>
         </td>
       </tr>
-      <tr colspan="2">
-        <td>
+       <tr>
+        <th colspan="2">
+          <strong>React UI library (in dev)</strong>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
            <a href="https://github.com/Naboska/Elui" style="width: 50%;">
             <img
               class="img"
