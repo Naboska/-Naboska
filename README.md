@@ -1,14 +1,6 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th colspan="2">
-          <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
+    <tr>
         <td>
            <a href="https://github.com/Naboska/storasy" style="width: 50%;">
             <img
@@ -19,6 +11,14 @@
           </a>
         </td>
       </tr>
+    <thead>
+      <tr>
+        <th colspan="2">
+          <strong><a href="https://github.com/Naboska/storasy">Storasy - working with data is easy</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td>
           <a href="https://github.com/Naboska/storasy" style="width: 50%;">
