@@ -28,22 +28,6 @@
           </a>
         </td>
       </tr>
-       <tr>
-        <th colspan="2">
-          <strong>React UI library (in dev)</strong>
-        </th>
-      </tr>
-      <tr>
-        <td colspan="2">
-           <a href="https://github.com/Naboska/Elui" style="width: 50%;">
-            <img
-              class="img"
-              alt="ui library for react"
-              src="https://github.com/Naboska/Elui/raw/main/public/images/github.svg"
-            />
-          </a>
-        </td>
-      </tr>
       <tr>
         <th colspan="2">
           <strong>Microfrontend example</strong>
