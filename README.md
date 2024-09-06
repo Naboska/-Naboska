@@ -39,11 +39,6 @@
         </td>
       </tr>
       <tr>
-        <td colspan="2">
-          <a href="https://github.com/Naboska/ssr-microfrontend-example">SSR - single-spa</a>
-        </td>
-      </tr>
-      <tr>
         <th colspan="2">
           <strong>Microfrontend helpers</strong>
         </th>
